@@ -1,11 +1,13 @@
 body {
-  width: 980px;
+  background-image: url("back.jpg");
+  background-size: cover;
   margin: 0 auto;
 }
 
 #main-container {
-  width: 100%;
+  width: 980px;
   background: red;
+  margin: 0 auto;
 }
 
 #header {
